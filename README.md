@@ -1,2 +1,2 @@
 # slice
-Developing the rule of what is Slice Of Life Anime means
+Developing set of rules that help define what *Slice Of Life* genre means.
