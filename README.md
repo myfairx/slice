@@ -9,4 +9,6 @@ So how do we challenge this?
 
 Here I'm trying to define (perhaps) a changing rules on what is really a SOL genre in regards of Japan culture presented in todays anime and manga and not confined to the old written description of the term SLICE of LIFE itself. 
 
+The term **CGDCT** or Cute Girl Doing Cute Things also thrown in a lot. while I do agree theres a valid point to this we also need a subset of rules that can clearly separate them.
+
 I'm not a native english speaker, so helps in editing and ideas contribution are always welcome. 
